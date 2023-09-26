@@ -1,0 +1,39 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.1.47",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Server RP - PedroDBR",
+  "version": "1.20.1",
+  "author": "ADMVicli",
+  "files": [
+    {
+      "projectID": 267458,
+      "fileID": 4678935,
+      "required": true
+    },
+    {
+      "projectID": 574856,
+      "fileID": 4684247,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 4726847,
+      "required": true
+    },
+    {
+      "projectID": 225608,
+      "fileID": 4586218,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
